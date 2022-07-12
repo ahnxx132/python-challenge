@@ -6,7 +6,7 @@ It's time to put away the Excel sheet and enter the world of programming with Py
 ## Before You Begin
 Before starting the assignment, be sure to complete the following steps:
 
-* Create a new repository for this project called python-challenge. Do not add this homework assignment to an existing repository.
+* Create a new repository for this project called [python-challenge]. Do not add this homework assignment to an existing repository.
 
 * Clone the new repository to your computer.
 
